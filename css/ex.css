@@ -1,0 +1,32 @@
+h1 {
+  font-size:24px;
+  color:#333;
+}
+
+.inner {
+  position:relative;
+  display: flex;
+  border-color:#333 ;
+  border-top:2px solid;
+ 
+}
+
+.inner .sub .ul{
+  font-weight:300;
+
+}
+
+
+.inner .sub ul li {
+  padding-right: 10px;
+  color:#333;
+  padding-left:0;
+  font-size: 20px;
+  font-weight:bold;
+ 
+}
+
+.inner .title{
+  border-left:2px solid;
+  padding-left: 20px;
+}
